@@ -1,6 +1,6 @@
 body {
     font-family: 'Segoe UI', sans-serif;
-    background: linear-gradient(135deg, #f6d365 0%, #fda085 100%);
+    background: linear-gradient(135deg, #6a65f6 0%, #9d85fd 100%);
     margin: 0;
     padding: 40px;
     display: flex;
@@ -21,7 +21,7 @@ input {
 button {
     padding: 10px 20px;
     margin: 10px 0;
-    background: #ff6f61;
+    background: #a21508;
     color: white;
     border: none;
     border-radius: 10px;
