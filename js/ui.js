@@ -7,7 +7,6 @@ export function setupUI() {
         const email = document.getElementById('email').value.trim();
 
         if (!nome || !email) {
-            //esse alert será removido e colocaremos algo no css dps
             alert('Preencher todos os campos');
             return
         }
